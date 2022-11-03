@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/cisco/Documents/GitHub/PMOVILES/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/cisco/Documents/GitHub/PMOVILES/MyApplication/app/src/main/res/layout/activity_offers2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/cisco/Documents/GitHub/PMOVILES/MyApplication/app/src/main/res/layout/activity_profile_login2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/cisco/Documents/GitHub/PMOVILES/MyApplication/app/src/main/res/layout/activity_profile_signup2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/cisco/Documents/GitHub/PMOVILES/MyApplication/app/src/main/res/layout/activity_search2.xml" value="0.358695652173913" />
         <entry key="..\:/Users/vladi/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>

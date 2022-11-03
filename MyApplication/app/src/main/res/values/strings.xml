@@ -3,4 +3,16 @@
     <string name="recien_anadidos">Recien añadidos</string>
     <string name="detergente">Detergente líquido concentrado para lavar ropa blanca y de color</string>
     <string name="descripcion_detergente1">Con Ariel Líquido Concentrado tienes un mismo detergente que lava blancos y colores con resultados impecables, sin maltratar las fibras y cuidando los colores.</string>
+    <string name="Categorias">category</string>
+    <string name="category">Categorias</string>
+    <string name="despensa">Despensa</string>
+    <string name="homecare">Cuidado del hogar</string>
+    <string name="personalclean">Aseo personal</string>
+    <string name="drinks">Bebidas</string>
+    <string name="pet">Mascotas</string>
+    <string name="babys">Bebes</string>
+    <string name="offerstx">Promociones</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="subtxtlogin">Por favor ingresa tus credenciales para continuar.</string>
+    <string name="sugerencia">Todavía no tienes cuenta? Registrate</string>
 </resources>
