@@ -10,7 +10,10 @@
         android:id="@+id/imageButton5"
         android:layout_width="52dp"
         android:layout_height="50dp"
-        tools:layout_editor_absoluteX="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="58dp"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton9"
+        app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="665dp"
         tools:srcCompat="@drawable/icon_home" />
 
@@ -18,7 +21,8 @@
         android:id="@+id/imageButton9"
         android:layout_width="52dp"
         android:layout_height="50dp"
-        tools:layout_editor_absoluteX="126dp"
+        android:layout_marginEnd="58dp"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton10"
         tools:layout_editor_absoluteY="665dp"
         tools:srcCompat="@drawable/archivo_de_busqueda_1" />
 
@@ -26,7 +30,8 @@
         android:id="@+id/imageButton10"
         android:layout_width="52dp"
         android:layout_height="50dp"
-        tools:layout_editor_absoluteX="236dp"
+        android:layout_marginEnd="55dp"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton11"
         tools:layout_editor_absoluteY="665dp"
         tools:srcCompat="@drawable/icon_offers" />
 
@@ -34,7 +39,8 @@
         android:id="@+id/imageButton11"
         android:layout_width="52dp"
         android:layout_height="50dp"
-        tools:layout_editor_absoluteX="340dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
         tools:layout_editor_absoluteY="665dp"
         tools:srcCompat="@drawable/icon_user" />
 
@@ -44,7 +50,9 @@
         android:layout_height="48dp"
         android:layout_marginStart="21dp"
         android:layout_marginTop="26dp"
+        android:layout_marginEnd="44dp"
         android:text="@string/pet"
+        app:layout_constraintEnd_toStartOf="@+id/button6"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button3" />
 
@@ -54,7 +62,9 @@
         android:layout_height="48dp"
         android:layout_marginStart="22dp"
         android:layout_marginTop="26dp"
+        android:layout_marginEnd="43dp"
         android:text="@string/personalclean"
+        app:layout_constraintEnd_toStartOf="@+id/button4"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button" />
 
@@ -86,10 +96,11 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="22dp"
         android:layout_marginTop="41dp"
         android:text="@string/category"
-        app:layout_constraintTop_toBottomOf="@+id/searchView"
-        tools:layout_editor_absoluteX="22dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/searchView" />
 
     <Button
         android:id="@+id/button"
@@ -97,7 +108,9 @@
         android:layout_height="48dp"
         android:layout_marginStart="22dp"
         android:layout_marginTop="22dp"
+        android:layout_marginEnd="43dp"
         android:text="@string/despensa"
+        app:layout_constraintEnd_toStartOf="@+id/button2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 

@@ -15,4 +15,13 @@
     <string name="login">Iniciar Sesión</string>
     <string name="subtxtlogin">Por favor ingresa tus credenciales para continuar.</string>
     <string name="sugerencia">Todavía no tienes cuenta? Registrate</string>
+    <string name="formcreateaccount">Crear cuenta</string>
+    <string name="sugerx2tx">Por favor ingresa tus datos para continuar.</string>
+    <string name="createaccountnewtx">Crear cuenta nueva</string>
+    <string name="sugerx3">Ya tienes cuenta? Inicia sesión</string>
+    <string name="nameuser">Nombre completo</string>
+    <string name="identify">Identifición</string>
+    <string name="emailetx">Correo</string>
+    <string name="passwordetx">Contraseña</string>
+    <string name="confirmpasswordetx">Confirmar contraseña</string>
 </resources>
